@@ -1,4 +1,4 @@
-# GeraldsCalculator
+# TestCalc.
 Gerald's Calculator Program.  Includes both my solution and the teacher's
 
 
